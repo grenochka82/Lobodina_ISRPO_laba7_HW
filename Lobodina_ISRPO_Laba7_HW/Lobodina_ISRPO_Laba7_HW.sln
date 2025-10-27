@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36429.23 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plotnikova_Anna_ISP-232_Homework_Lab7_ISRPO", "Plotnikova_Anna_ISP-232_Homework_Lab7_ISRPO\Plotnikova_Anna_ISP-232_Homework_Lab7_ISRPO.csproj", "{8134509B-D9E7-45AB-9A48-602E8556DDA3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lobodina_ISRPO_laba7_HW", "Lobodina_ISRPO_laba7_HW\Lobodina_ISRPO_laba7_HW.csproj", "{8134509B-D9E7-45AB-9A48-602E8556DDA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
